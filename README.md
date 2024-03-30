@@ -1,5 +1,5 @@
-<H3>Name: Paul Andrew D</H3>
-<H3>Register no: 212221230075</H3>
+<H3>Name: Jeeva MS</H3>
+<H3>Register no: 212221230040</H3>
 <H3>Date:</H3>
 <H3>Experiment No: 2 </H3>
 
